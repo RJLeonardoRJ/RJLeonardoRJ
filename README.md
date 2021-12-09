@@ -1,8 +1,8 @@
 ### Seja bem vindo 👋
 
 
-- 🔭 Sou formado em Administração de Empresas e trabalho na tesouraria da Rede D'or São Luiz
-- 🌱 Estudando Python/JS/Reacj - Iniciante
+- 🔭 Formado em Administração de Empresas
+- 🌱 Estudando Python/JS/React - Iniciante
 - 🤔 Procuro ajuda em como melhorar meus estudos em python
 - 📫 Contate-me no e-mail: Leonardo.pecarneiro@gmail.com
 - 😄 Pronouns: ele/dele
